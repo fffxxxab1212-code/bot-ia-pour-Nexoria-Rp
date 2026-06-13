@@ -1,0 +1,10 @@
+[13/06/2026 01:58:19] Nexoria Helper#7884: <@1472041317184966839>
+[13/06/2026 01:58:32] t8qk: J’ai trouvé un gros bug
+[13/06/2026 01:58:33] Nexoria Helper#7884: Je suis l'assistant officiel de Nexoria RP. Je peux uniquement répondre aux questions concernant le serveur.
+
+Pour signaler un bug, tu peux :
+1. **Créer un ticket** sur le [forum de Nexoria RP](https://forum.nexoria-rp.fr/) (section "Bugs & Problèmes").
+2. **Rejoindre le Discord** du serveur et poster le bug dans le salon `#🐛-signaler-un-bug`.
+3. **Contacter un administrateur** en jeu via la commande `/admin` ou en privé.
+
+Merci de fournir des détails précis (screenshots, étapes pour reproduire, etc.) pour faciliter la résolution !
